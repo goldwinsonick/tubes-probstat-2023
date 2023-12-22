@@ -1,0 +1,14 @@
+Tugas Probstat 2023
+Goldwin Sonick Wijaya Thaha 13222067
+
+Laporan : "Tugas Besar Probstat 13222067.pdf"
+00_Data Preparation = Data Cleaning
+01_DataVisualization = Data Visual (Awalnya, tapi akhirnya tidak pakai itu)
+02_Data Analysis = Analisis Awal
+02_Data Analysis 2 = Visualisasi ulang dan Chi Square Goodness of Fit serta proporsi confidence interval
+03_Data Analysis 3 = Chi Square Test (Independence and Homogienity) dan Visualiasi 2 Variabel
+
+Grafik yang dipakai ada di folder output2/ dan di scripts.
+
+Code berantakan karena kurangnya memperhatikan struktur data :,). Lebih baik jika struktur data dibuat lebih rapi sehingga
+analisis variabel-variabel lebih mudah dan visualisasi lebih mudah.
