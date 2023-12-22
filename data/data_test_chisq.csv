@@ -1,0 +1,13 @@
+sampel,operator_pilihan,kecepatan_download(mbps)
+1,tel,<20
+2,xl,20-30
+3,ind,30-40
+4,tel,30-40
+5,xl,<20
+6,tel,20-30
+7,tel,20-30
+8,tel,≥40
+9,ind,20-30
+10,xl,30-40
+11,ind,≥40
+12,ind,<20
